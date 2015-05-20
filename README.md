@@ -23,4 +23,5 @@ The "Actor MetaData" pattern is a simple way to add extra information which make
 
 ***
 ![Petabridge Logo](petabridge_logo.png)
+
 Copyright 2015 Petabridge, LLC
