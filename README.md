@@ -1,6 +1,4 @@
 # Akka.NET Helpers
-![Akka.NET Logo](akka_net_logo.png)
-
 This repo is a library of Akka.NET helper classes and design patterns to assist with common production needs.
 
 ## Helpers & Patterns
